@@ -1,0 +1,67 @@
+sheets:
+  - name: bronze_sus_responders_fy22q1
+    owner: '@jeanpeguero'
+    tabs:
+      - bronze_sus_responders_fy22q1
+  - name: country_lat_long
+    owner: '@nicolegalang'
+    tabs:
+      - latitude_and_longitude
+  - name: crm_accounts_pricing_eoa
+    owner: '@jeanpeguero'
+    tabs:
+      - crm_accounts_pricing_eoa
+  - name: ecommerce_expanded
+    owner: '@jeanpeguero'
+    tabs:
+      - ecommerce_expanded
+  - name: frontend_interview_metrics
+    owner: '@andr3'
+    tabs:
+      - interviews
+      - rubric_max_points
+  - name: gainsight_golden_records
+    owner: '@snalamaru'
+    tabs:
+      - sample_gainsight_golden_records
+  - name: gainsight_product_usage_metrics
+    owner: '@snalamaru'
+    tabs:
+      - gainsight_product_usage_metrics
+  - name: gitlab_product_mrs_size
+    owner: '@kwiebers'
+    tabs:
+      - gitlab_product_mrs_size
+  - name: opt_out_contacts
+    owner: '@Jean Peguero'
+    tabs:
+      - do_not_email_contacts
+  - name: pricing_list
+    owner: '@Jean Peguero'
+    tabs:
+      - pricing_list
+  - name: product_usage_stages_monthly
+    owner: '@Kevin Dietz'
+    tabs: 
+      - product_usage_stages_monthly
+  - name: pte_scores
+    owner: '@Kevin Dietz'
+    tabs:
+      - pte_scores_20211013
+      - pte_scores_20211101
+  - name: q4fy2021_system_usability_scale_results
+    owner: '@rbacovic'
+    tabs:
+      - individual_questions_analysis
+  - name: test_sheet
+    owner: '@taylormurphy'
+    tabs:
+      - test_sheet
+  - name: trial_pageviews
+    owner: '@rkohnke'
+    tabs:
+      - trial_pageviews
+  - name: us_cities_latitude_longitude
+    owner: '@rkohnke'
+    tabs:
+      - us_cities_latitude_longitude
